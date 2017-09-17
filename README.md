@@ -1,4 +1,4 @@
-# React-Redux template
+# React-Redux-Firebase template
 This app was created using [react-redux-firebase-template](https://github.com/kenfire/react-redux-firebase-template)
 
 ## Description
